@@ -1,4 +1,4 @@
-# {{Project Title}}
+# Project Title
 
 ## Team 
 - {{ eNumber}}, {{Name}}, [{{email}}](mailto:{{email}}), [Department of Computer Engineering](http://www.ce.pdn.ac.lk/), [University of Peradeniya](https://eng.pdn.ac.lk/)
@@ -8,7 +8,7 @@
 ---
 
 [//]: # (photo/drawing of the final hardware)
-![{{Project Name}}](/docs/img_cover.jpg)
+![{{Project Name}}](img_cover.jpg)
 
 
 ## Table of Contents
@@ -18,7 +18,7 @@
 4. [Testing](#testing)
 5. [Detailed budget](#detailed-budget)
 6. [Conclusion](#conclusion)
-7. [Links](#Links)
+7. [Links](#links)
 
 ---
 
@@ -54,6 +54,9 @@
 
 - [Project Repository](https://github.com/cepdnaclk/repository-name)
 - [Project Page](https://cepdnaclk.github.io/repository-name)
+- [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
+- [University of Peradeniya](https://eng.pdn.ac.lk/)
+
 
 
 [//]: # (Please refer this to learn more about Markdown syntax)
