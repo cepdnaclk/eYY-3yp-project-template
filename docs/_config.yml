@@ -1,7 +1,7 @@
 # This theme is based on https://github.com/jekyll/minima
 # Please refer above link to know the available configurations
 
-theme: cepdnaclk/eYY-3yp-project-template
+remote_theme: cepdnaclk/eYY-3yp-project-template
 # theme: jekyll-theme-minimal
 
 # title: "cepdnaclk.github.io"
