@@ -4,14 +4,14 @@ layout: home
 
 # Project Title
 
-## Team 
-- {{ eNumber}}, {{Name}}, [  {{email}}  ](mailto:  {{email}}  )
-- {{ eNumber}}, {{Name}}, [  {{email}}  ](mailto:  {{email}}  )
-- {{ eNumber}}, {{Name}}, [  {{email}}  ](mailto:  {{email}}  )
+## Team
+-  eNumber, Name, [  email  ](mailto:  email  )
+-  eNumber, Name, [  email  ](mailto:  email  )
+-  eNumber, Name, [  email  ](mailto:  email  )
 ---
 
 [//]: # (photo/drawing of the final hardware)
-![{{Project Name}}](img_cover.jpg)
+![Project Name](img_cover.jpg)
 
 
 ## Table of Contents
@@ -27,23 +27,23 @@ layout: home
 
 ## Introduction
 
-{{ description of the real world problem and solution, impact }}
+ description of the real world problem and solution, impact
 
-## Solution Architecture 
+## Solution Architecture
 
-{{ high level diagram + description }}
+ high level diagram + description
 
 ## Hardware and Software Designs
 
-{{ detailed designs with many sub-sections }}
+ detailed designs with many sub-sections
 
-## Testing 
+## Testing
 
-{{ testing done on hardware and software, detailed + summarized results }}
+ testing done on hardware and software, detailed + summarized results
 
-## Detailed budget 
+## Detailed budget
 
-{{ all items and costs }}
+ all items and costs
 
 | Item          | Quantity  | Unit Cost  | Total  |
 | ------------- |:---------:|:----------:|-------:|
@@ -51,7 +51,7 @@ layout: home
 
 ## Conclusion
 
-{{ what was achieved, future developments, commercialization plans }}
+ what was achieved, future developments, commercialization plans
 
 ## Links
 
@@ -64,5 +64,3 @@ layout: home
 
 [//]: # (Please refer this to learn more about Markdown syntax)
 [//]: # (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-
