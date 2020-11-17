@@ -9,11 +9,9 @@ layout: home
 -  eNumber, Name, [email](mailto:name@email.com)
 -  eNumber, Name, [email](mailto:name@email.com)
 
----
-
-[//]: # (photo/drawing of the final hardware)
-![Project Name](img_cover.jpg)
-
+<div class="container p-2 mb-4">
+    <img class="img-fluid" src="img_cover.jpg" style="width:100%" />
+</div>
 
 ## Table of Contents
 1. [Introduction](#introduction)
