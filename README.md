@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 # eYY-3yp-project-template
 
 This is a sample repository you can use for your 3rd year unified project.
