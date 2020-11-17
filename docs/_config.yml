@@ -1,1 +1,10 @@
-theme: jekyll-theme-minimal
+# This theme is based on https://github.com/jekyll/minima
+# Please refer above link to know the available configurations
+
+theme: cepdnaclk/eYY-3yp-project-template
+
+# title: "cepdnaclk.github.io"
+# logo: /assets/img/logo.png
+# description: "Department of Computer Engineering"
+# show_downloads: true
+# google_analytics:
