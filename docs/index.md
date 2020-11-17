@@ -8,7 +8,6 @@ layout: home
 - {{ eNumber}}, {{Name}}, [  {{email}}  ](mailto:  {{email}}  )
 - {{ eNumber}}, {{Name}}, [  {{email}}  ](mailto:  {{email}}  )
 - {{ eNumber}}, {{Name}}, [  {{email}}  ](mailto:  {{email}}  )
-
 ---
 
 [//]: # (photo/drawing of the final hardware)
