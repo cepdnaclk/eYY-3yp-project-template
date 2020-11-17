@@ -5,9 +5,9 @@ layout: home
 # Project Title
 
 ## Team
--  eNumber, Name, [  email  ](mailto:  email  )
--  eNumber, Name, [  email  ](mailto:  email  )
--  eNumber, Name, [  email  ](mailto:  email  )
+-  eNumber, Name, [email](mailto:name@email.com)
+-  eNumber, Name, [email](mailto:name@email.com)
+-  eNumber, Name, [email](mailto:name@email.com)
 ---
 
 [//]: # (photo/drawing of the final hardware)
