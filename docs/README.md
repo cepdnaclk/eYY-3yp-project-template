@@ -1,17 +1,20 @@
 ---
 layout: home
+permalink: index.html
 ---
 
+<div class="container p-2 mb-4">
+    <img class="img-fluid img-cover" src="./data/img_cover.jpg" style="width:100%" />
+</div>
+
 # Project Title
+
+---
 
 ## Team
 -  eNumber, Name, [email](mailto:name@email.com)
 -  eNumber, Name, [email](mailto:name@email.com)
 -  eNumber, Name, [email](mailto:name@email.com)
-
-<div class="container p-2 mb-4">
-    <img class="img-fluid" src="img_cover.jpg" style="width:100%" />
-</div>
 
 ## Table of Contents
 1. [Introduction](#introduction)
