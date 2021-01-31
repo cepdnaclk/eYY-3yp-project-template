@@ -1,11 +1,12 @@
 ---
 layout: home
 permalink: index.html
+
+# Please update this with your repository name
+repository-name: eYY-3yp-project-template
 ---
 
-<div class="container p-2 mb-4">
-    <img class="img-fluid img-cover" src="./data/img_cover.jpg" style="width:100%" />
-</div>
+[comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
 # Project Title
 
@@ -57,12 +58,11 @@ permalink: index.html
 
 ## Links
 
-- [Project Repository](https://github.com/cepdnaclk/repository-name)
-- [Project Page](https://cepdnaclk.github.io/repository-name)
+- [Project Repository](https://github.com/cepdnaclk/{{ page.repository-name }}){:target="\_blank"}
+- [Project Page](https://cepdnaclk.github.io/{{ page.repository-name}}){:target="\_blank"}
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
 
-- [Custom Page](page_1)
 
 [//]: # (Please refer this to learn more about Markdown syntax)
 [//]: # (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
