@@ -31,23 +31,28 @@ title:
 
 ## Introduction
 
- description of the real world problem and solution, impact
+Description of the real world problem and solution, impact
+
+This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/)
+
+![Sample Image](./images/sample.png)
+
 
 ## Solution Architecture
 
- high level diagram + description
+High level diagram + description
 
 ## Hardware and Software Designs
 
- detailed designs with many sub-sections
+Detailed designs with many sub-sections
 
 ## Testing
 
- testing done on hardware and software, detailed + summarized results
+Testing done on hardware and software, detailed + summarized results
 
 ## Detailed budget
 
- all items and costs
+All items and costs
 
 | Item          | Quantity  | Unit Cost  | Total  |
 | ------------- |:---------:|:----------:|-------:|
@@ -55,7 +60,7 @@ title:
 
 ## Conclusion
 
- what was achieved, future developments, commercialization plans
+What was achieved, future developments, commercialization plans
 
 ## Links
 
